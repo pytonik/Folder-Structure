@@ -7,7 +7,7 @@ pytonik MVC framework uses Folder Structure pattern that enable you to develop y
 
 Build web applications using the pytonik Folder and file structure.
 
-![pytonic folder structure](http://betacodings.com/folder_structure.png)
+![pytonic folder structure](https://eduhubdirect.com/folder_structure.png)
 
 This folder structure is commended by **pytonik** and should be used when developing web application.
 
