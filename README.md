@@ -4,8 +4,6 @@
 [![made with python](https://forthebadge.com/images/badges/uses-html.svg)](https://pypi.python.org/pypi/pytonik)
 
 
-
-
-![stack Overflow](http://www.betacodings.com/folder_structure.png)
+![pytonic folder structure](http://www.betacodings.com/folder_structure.png)
 
 
