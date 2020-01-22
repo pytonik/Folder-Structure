@@ -1,15 +1,18 @@
-from pytonik import Web as mvc
-
-m = mvc.App()
-
-
-def index():
-    
-    data = {
-        'title': "pytonik MVC",
+from pytonik.Web import App
         
-    }
-    m.header()
-    m.views('index', data)
+m = App()
+        
+def index():
+
+  data = {
+    'title': 'Pytonik MVC',
+     'note': 'Our New Website '
 
 
+          }
+            
+  m.views('index', data)
+            
+
+
+        

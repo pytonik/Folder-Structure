@@ -1,2 +1,1 @@
 {"lng.test":"sample text"}
-
